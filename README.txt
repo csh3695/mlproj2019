@@ -11,7 +11,7 @@
 - All codes except <Mecab Install on Colab>(==1st block) is written by myself.
 - Detailed descriptions of code included in annotations.
 - Before running your directory should be like below.
-  -- If you don't have ./modeldata/Word2Vec(word_dset, E4-vs32w3e10mc1) code automatically builds new model and save)
+  -- If you don't have ./modeldata/Word2Vec(word_dset, E4-vs32w3e10mc1) code automatically builds new model and save
   -- res.csv, newres.csv : Violation of law interest data(bad data)
   -- *_raw.csv : No violation data(normal data)
 .
